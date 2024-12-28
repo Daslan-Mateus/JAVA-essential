@@ -1,4 +1,4 @@
-package OO.figuras;
+package java.OO.figuras;
 
 public class Triangulo extends  Figura2D {
     private double base;

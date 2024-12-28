@@ -1,21 +1,19 @@
-package OO.figuras;
+package java.OO.figuras;
 
-public class Cubo extends  Figura3D {
-    private  int aresta;
-
-    public Cubo(String nome, String cor, int aresta) {
+public class Piramide extends  Figura3D {
+    public Piramide(String nome, String cor) {
         super(nome, cor);
-        this.aresta = aresta;
     }
 
     @Override
     public void calcularArea() {
-        setArea(Math.pow(aresta, 2));
-    }
+        System.out.println("calculando area da piramide");
 
+    }
     @Override
     public void calcularVolume() {
-        setVolume(Math.pow(aresta, 3));
+        System.out.println("calculando volume da piramide");
+
     }
 
     @Override

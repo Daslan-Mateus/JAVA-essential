@@ -1,4 +1,4 @@
-package OO.figuras;
+package java.OO.figuras;
 
 public class Cilindro extends  Figura3D {
     private double raio;

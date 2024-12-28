@@ -1,4 +1,4 @@
-package OO.figuras;
+package java.OO.figuras;
 
 public abstract  class Figura2D extends  FiguraGeometrica implements  DimensaoSuperficial {
     private double area;

@@ -1,4 +1,4 @@
-package OO.figuras;
+package java.OO.figuras;
 
 public class FiguraTest {
     public static void main(String[] args) {

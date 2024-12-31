@@ -1,4 +1,4 @@
-package java.OO.figuras;
+package OO.figuras;
 
 public class Circulo extends  Figura2D {
     private double raio;

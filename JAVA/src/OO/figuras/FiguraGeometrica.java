@@ -1,4 +1,4 @@
-package java.OO.figuras;
+package OO.figuras;
 
 public class FiguraGeometrica {
     private String nome;

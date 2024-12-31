@@ -1,4 +1,4 @@
-package java.OO.figuras;
+package OO.figuras;
 
 public abstract  class Figura3D extends  FiguraGeometrica implements DimensaoSuperficial, DimensaoVolumetrica {
     private double volume;

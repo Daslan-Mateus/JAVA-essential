@@ -1,4 +1,4 @@
-package java.OO.figuras;
+package OO.figuras;
 
 public interface  DimensaoSuperficial {
      void calcularArea();

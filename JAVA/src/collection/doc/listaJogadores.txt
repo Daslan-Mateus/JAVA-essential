@@ -1,0 +1,48 @@
+João Silva,Atacante,28,Flamengo,10
+Carlos Pereira,Meio-campo,26,Palmeiras,5
+Lucas Souza,Zagueiro,30,Santos,2
+Felipe Costa,Atacante,24,Grêmio,8
+Ricardo Almeida,Goleiro,32,Corinthians,0
+Matheus Rocha,Meio-campo,27,Atlético-MG,6
+Gustavo Martins,Zagueiro,29,Fluminense,1
+Eduardo Santos,Atacante,25,Internacional,12
+André Oliveira,Meio-campo,22,São Paulo,3
+Vinícius Lima,Lateral-direito,27,Fortaleza,0
+Rafael Torres,Atacante,31,Palmeiras,9
+Thiago Silva,Zagueiro,34,São Paulo,0
+Arthur Santos,Meio-campo,26,Atlético-MG,4
+Bruno Henrique,Atacante,28,Flamengo,15
+Diego Costa,Meio-campo,30,Grêmio,2
+Carlos Eduardo,Zagueiro,27,Corinthians,0
+Renato Alves,Meio-campo,24,Fluminense,1
+Felipe Lima,Atacante,29,Internacional,7
+Leandro Silva,Zagueiro,31,Santos,0
+Jorge Souza,Atacante,23,Fortaleza,4
+Marcos Rocha,Lateral-direito,32,Atlético-MG,1
+Victor Hugo,Meio-campo,24,Palmeiras,2
+Vinícius Pereira,Atacante,25,Grêmio,6
+Felipe Ferreira,Zagueiro,28,Flamengo,1
+Marcelo Santos,Goleiro,33,São Paulo,0
+Lucas Pereira,Atacante,27,Internacional,10
+Anderson Silva,Meio-campo,25,Fortaleza,3
+Renan Costa,Zagueiro,30,Fluminense,0
+Ricardo Martins,Atacante,28,Corinthians,5
+Carlos Alberto,Meio-campo,27,Flamengo,6
+Gabriel Silva,Atacante,29,Santos,11
+Eduardo Lima,Zagueiro,26,Grêmio,3
+Marcos Ferreira,Atacante,23,Internacional,9
+Felipe Duarte,Meio-campo,31,Atlético-MG,7
+Rafael Silva,Zagueiro,30,Fluminense,1
+Anderson Pereira,Goleiro,28,São Paulo,0
+Juliano Costa,Atacante,26,Palmeiras,8
+Ricardo Souza,Meio-campo,24,Santos,2
+Carlos Henrique,Atacante,29,Fortaleza,5
+Lucas Rocha,Zagueiro,30,Corinthians,0
+Vinícius Alves,Meio-campo,17,Grêmio,4
+Jorge Martins,Atacante,31,Internacional,12
+Thiago Pereira,Zagueiro,29,Flamengo,0
+Roberto Costa,Meio-campo,27,Atlético-MG,5
+Gustavo Lima,Atacante,24,Palmeiras,7
+Felipe Ribeiro,Zagueiro,28,Fluminense,2
+Rodrigo Silva,Atacante,30,São Paulo,10
+

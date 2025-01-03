@@ -20,7 +20,7 @@ public class Temperatura {
 
         for (int i = 0; i < meses.length; i++) {
             System.out.println("Digite a temperatura de " +  meses[i] );
-            double temp = scan.nextInt();
+            double temp = scan.nextDouble();
             temperatura.add((double) temp);
         }
 
